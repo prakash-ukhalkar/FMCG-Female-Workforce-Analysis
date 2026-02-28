@@ -141,8 +141,10 @@ celerybeat.pid
 env/
 venv/
 ENV/
+FMCG_env/
 env.bak/
 venv.bak/
+*.py
 
 # Spyder project settings
 .spyderproject
